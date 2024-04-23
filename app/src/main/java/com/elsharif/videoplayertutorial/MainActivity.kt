@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
 
 
                         YoutubePlayer(
-                            youtubeVideoId = "E_8LHkn4g-Q",  // Specify the YouTube video ID to load
+                            youtubeVideoId = "Kljs23A3lKo",  // Specify the YouTube video ID to load
                             lifecycleOwner = LocalLifecycleOwner.current  // Use the current LifecycleOwner
                         )
 
